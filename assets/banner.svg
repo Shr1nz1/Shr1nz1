@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">PROJECTS &amp; EXPLORATIONS</title>
+  <desc id="desc">Make room for ideas.</desc>
+  <defs>
+    <clipPath id="canvas">
+      <rect width="1280" height="360" rx="18"/>
+    </clipPath>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="0.8" fill="#c9b9a9" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1280" height="360" fill="#f7f3eb"/>
+    <rect x="790" width="490" height="360" fill="url(#grid)"/>
+    <path d="M78 60H1202" stroke="#d8cdbf" stroke-width="1"/>
+    <path d="M78 300H1202" stroke="#d8cdbf" stroke-width="1"/>
+    <rect x="78" y="91" width="8" height="8" fill="#bc4f2e"/>
+    <text x="102" y="101" fill="#bc4f2e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="3">PROJECTS &amp; EXPLORATIONS</text>
+    <text x="74" y="205" fill="#26231f" font-family="Georgia, 'Times New Roman', serif" font-size="67" letter-spacing="-2">Make room for ideas.</text>
+    <path d="M78 246H134" stroke="#bc4f2e" stroke-width="3"/>
+    <g transform="translate(1054 181)" fill="none" stroke="#c8b8a7" stroke-width="1.2">
+      <ellipse rx="151" ry="65" transform="rotate(-32)"/>
+      <ellipse rx="151" ry="65" transform="rotate(32)"/>
+      <ellipse rx="66" ry="128"/>
+      <circle r="20" stroke="#bc4f2e"/>
+    </g>
+    <rect x="926" y="93" width="19" height="19" rx="2" fill="#bc4f2e" transform="rotate(-13 935.5 102.5)"/>
+    <rect x="1167" y="242" width="12" height="12" rx="1" fill="#26231f" transform="rotate(14 1173 248)"/>
+    <rect x="1046" y="302" width="16" height="16" rx="2" fill="#f7f3eb" stroke="#bc4f2e" stroke-width="1.5" transform="rotate(11 1054 310)"/>
+    <circle cx="1054" cy="181" r="4" fill="#bc4f2e"/>
+  </g>
+</svg>
